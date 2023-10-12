@@ -1,0 +1,24 @@
+p{
+    color: aqua;
+}
+#test{
+    color: aliceblue !important;
+}
+
+div .first{
+    color: antiquewhite;
+}
+div.main p.test{
+    color: cyan ;
+}
+.round{
+    height: 150px;
+    width: 150px;
+    border: 8px solid #000;
+    border-radius: 70%;
+}
+#div1 {
+  background-color: yellow;
+  height: 100px;
+  width: max(40%, 366px);
+}
